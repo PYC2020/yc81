@@ -13,6 +13,7 @@
         <module>BBS-config2</module>
         <module>BBS-config3</module>
         <module>BBS-Eureka-Config</module>
+        <module>BBS-zuul</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
