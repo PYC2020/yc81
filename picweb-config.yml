@@ -13,4 +13,4 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     username: pyc
     password: pyc.0907
-    url: jdbc:mysql://39.101.129.133:3306/bbs?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Hongkong
+    url: jdbc:mysql://39.101.129.133:3306/db_travel?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Hongkong
