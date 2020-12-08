@@ -7,7 +7,7 @@ spring:
 spring:
   profiles: beta
   application:
-      name: BBS-web
+      name: travel-web
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
